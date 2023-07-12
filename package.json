@@ -4,8 +4,8 @@
   "description": "An app that converts different currencies",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon",
-    "dev": "node"
+   "start": "node",
+    "dev": "nodemon"
   },
   "author": "Oluwaferanmi Adeoye",
   "license": "ISC",
